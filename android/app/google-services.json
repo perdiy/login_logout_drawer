@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "214267560661",
+    "project_id": "walltutorial-791b1",
+    "storage_bucket": "walltutorial-791b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214267560661:android:4ff87b10e72e7b46c3185c",
+        "android_client_info": {
+          "package_name": "com.example.er"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214267560661-iul4d2dqghnqo66guqso2dkj3s6ardmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75QYAGwH9y6_dNgHO4PZp4KBmx33BLVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214267560661-7csfhul4tpb4s9ctc90vl3a2a8vkjq5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214267560661-15ud0d6m09cqskeeiju38vu1fe95iku4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sosmed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214267560661:android:155ec31c34cef825c3185c",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214267560661-iul4d2dqghnqo66guqso2dkj3s6ardmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75QYAGwH9y6_dNgHO4PZp4KBmx33BLVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214267560661-7csfhul4tpb4s9ctc90vl3a2a8vkjq5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214267560661-15ud0d6m09cqskeeiju38vu1fe95iku4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sosmed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214267560661:android:7ae54ccfd85ac0f6c3185c",
+        "android_client_info": {
+          "package_name": "com.example.sosmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214267560661-iul4d2dqghnqo66guqso2dkj3s6ardmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75QYAGwH9y6_dNgHO4PZp4KBmx33BLVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214267560661-7csfhul4tpb4s9ctc90vl3a2a8vkjq5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214267560661-15ud0d6m09cqskeeiju38vu1fe95iku4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sosmed"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214267560661:android:cd9aa926c4408a65c3185c",
+        "android_client_info": {
+          "package_name": "com.example.sosmmedd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214267560661-iul4d2dqghnqo66guqso2dkj3s6ardmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75QYAGwH9y6_dNgHO4PZp4KBmx33BLVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214267560661-7csfhul4tpb4s9ctc90vl3a2a8vkjq5l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214267560661-15ud0d6m09cqskeeiju38vu1fe95iku4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sosmed"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
